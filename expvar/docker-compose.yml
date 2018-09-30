@@ -1,0 +1,11 @@
+version: '3'
+
+volumes:
+  grafana-storage:
+
+services:
+  app:
+    image: golang:alpine
+    volumes:
+    - ".:/opt"
+    command: go run /opt/main.go
