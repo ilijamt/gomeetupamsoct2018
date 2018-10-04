@@ -17,4 +17,4 @@ KPN Teleport
 Teleportboulevard 121 · Amsterdam
 
 #### Subject
-Remote profiling and flamegraphs in Golang
+Remote profiling, metrics and flamegraphs in Golang
