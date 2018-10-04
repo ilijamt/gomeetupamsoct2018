@@ -1,6 +1,7 @@
 Golang Meetup
 ==============
 
+https://www.meetup.com/golang-amsterdam/events/254267320/
 
 This is prepration for the talk I'm gonna give, extra resources to guide the interested can be found on my blog.
 
